@@ -1,28 +1,56 @@
-# Seraj Abushnaf — FTC Robotics Profile
+# Seraj Abushnaf — Robotics and Engineering Portfolio
 
-A static, responsive profile page intended for GitHub Pages.
+I am a robotics student interested in autonomous programming, mechanical design, CAD, and engineering. This portfolio documents my technical experience, projects, achievements, and independent work.
 
-## Before publishing
-1. Review every claim, especially team roles, season attribution, ranking, and awards.
-2. Add public video links, photos you have permission to publish, and official team/event evidence.
-3. Replace the blank canonical URL and `og:url` in `index.html` after you know the final GitHub Pages URL.
-4. Keep personal contact details private.
+## Robotics experience
 
-## Publish with GitHub Pages
-1. Sign in to GitHub and create a **public** repository named `seraj-abushnaf.github.io` (replace `seraj-abushnaf` with your exact GitHub username).
-2. Upload `index.html` to the repository's root. You can also upload this README.
-3. In the repository, open **Settings → Pages**.
-4. Under **Build and deployment**, choose **Deploy from a branch**.
-5. Select branch `main` and folder `/(root)`, then save.
-6. Wait for GitHub Pages to deploy. The website URL will be `https://YOUR-USERNAME.github.io/`.
-7. Open the URL on your phone and computer to check it.
-8. Once live, update the canonical URL and `og:url` in `index.html` to the exact live URL and commit the change.
+- **Teams:** TLC CyberKnights and LyBrix
+- **Seasons:** 2024–2025 and 2025–2026
+- **Roles:** Lead Programmer for Autonomous and Robot Designer
+- **Contributions:** Autonomous routines and competition code, robot mechanisms, CAD, prototyping, performance testing, and software and mechanical development across three FTC seasons.
 
-## Search indexing
-- Make sure the repository and site are public and the page loads without signing in.
-- Add the page link to your existing portfolio and public team profile if possible.
-- Add the website to Google Search Console and Bing Webmaster Tools, then request indexing.
-- Indexing is not guaranteed or immediate, and no page can force AI systems to use it.
+## FTC achievements
 
-## Evidence recommendations
-Best evidence includes official team/event pages, public competition videos, programming demonstrations, and coach/team confirmation shared with permission. Clearly separate personal contributions from team awards.
+### 2024–2025 season
+
+- National Semifinalist
+- Reported 7th place nationally in Libya
+
+### 2025–2026 season
+
+- Control Award
+- Promote Award
+
+These are team achievements supported by individual programming and robot-design contributions.
+
+### Arab Robotics Championship — Benghazi
+
+- Second Place
+- Concept Award
+- Contributed to the beta version of an educational robotics project associated with the Academy of Tripoli / Academy of Libya
+- The project was presented to hundreds of people, and I participated in an interview about the work
+
+## Engineering and independent projects
+
+- **Arduino Fire and Toxic Gas Detection System:** Built, programmed, tested, and improved a prototype designed to detect fire and toxic gases and initiate an automatic response, including fire-extinguishing functionality. Presented it independently to hundreds of people and participated in an interview.
+- **Soil Moisture and Automatic Watering System:** Worked with a teammate on programming and presenting a soil-moisture monitoring and watering project that achieved first place in my class.
+- **Agricultural Seed-Distribution Drone:** A future project concept exploring affordable drone technology for distributing seeds across rural land in Libya. This project has not yet been built.
+- **CAD and Mechanical Design:** Experience with Onshape, FTC robot design, CAD-based mechanisms, shooter designs, prototyping, and performance testing.
+- **Robotics Education:** Helped teach unpaid sessions covering Arduino Uno fundamentals, FTC robotics, programming, and live coding demonstrations.
+- **Independent 3D-Printing Business:** Produce and sell FTC robot components and manage an order website. I have contacted more than 20 robotics teams and reported over 10,000 LYD in sales revenue.
+- **Website Development:** Built four websites for businesses or organizations, including two paid projects, primarily using Lovable.
+- **Video Editing:** Created promotional and social-media videos, including paid projects for companies.
+
+## Awards and skills
+
+- **Awards:** Science Fair Winner, Physics Genius of the Year, and Grade 9 second place
+- **Skills:** FTC programming, Arduino, Onshape CAD, robot design, 3D printing, and web development
+- **Evidence:** Certificates, photos, videos, and CAD designs
+
+## Portfolio
+
+The live portfolio is available at:
+
+<https://seraj-abushnaf.github.io/Seraj-abushnaf-robotics/>
+
+The repository is public and published with GitHub Pages from the `main` branch root. Public evidence links, certificates, videos, and CAD designs can be added as they become available. Keep private contact details off public pages and verify team achievements against official records where possible.
