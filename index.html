@@ -63,6 +63,8 @@
     .result { border-left: 3px solid var(--gold); padding: 4px 0 4px 17px; margin: 18px 0; }
     .evidence { border: 1px dashed #b5a487; border-radius: 12px; padding: 18px; background: rgba(255,255,255,.28); }
     .evidence + .evidence { margin-top: 12px; }
+    .profile-photo { display: block; width: 100%; max-width: 560px; height: auto; border-radius: 10px; margin: 14px 0 10px; }
+    .caption { color: var(--muted); font-size: .9rem; margin: 0; }
     .placeholder { color: var(--muted); font-size: .93rem; }
     .note { font-size: .9rem; color: var(--muted); }
     .footer { padding: 28px 0 42px; border-top: 1px solid var(--line); color: var(--muted); font-size: .9rem; }
@@ -211,8 +213,10 @@
         </div>
         <div class="evidence">
           <h3>Team and robot photographs</h3>
-          <p class="placeholder">Add photos you have permission to publish. Include descriptive alt text and captions naming the event, team, and season.</p>
-          <!-- Place image files in an assets/ folder and add them here with meaningful alt text. -->
+          <figure>
+            <img class="profile-photo" src="assets/tlc-cyberknights-team-photo.png" alt="TLC CyberKnights team members at a FIRST Tech Challenge robotics event">
+            <figcaption class="caption">TLC CyberKnights team members representing their FIRST Tech Challenge team. Shared as team documentation; event and season details can be added when confirmed.</figcaption>
+          </figure>
         </div>
         <div class="evidence">
           <h3>Role verification</h3>
